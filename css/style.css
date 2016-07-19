@@ -1,0 +1,158 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin:0px;
+	padding:0px;
+	list-style:none;
+	
+	}
+	body {
+		background-image:url(../img/B86.jpg);
+		
+		}
+
+header {
+	 position:relative;
+	   width:1000px;
+	   height: 120px;
+	   background-color:#444;
+	   margin:20px auto;
+	   
+	   
+	}
+	
+#logo {
+		   position:absolute;
+		   top:30px;
+		   left:30px;
+		   width:200px;
+		   height:60px;
+		   background:#ccc;
+		
+		}
+	.busca {
+		  margin-left: 239px;
+		  padding-top: 80px;
+		}
+		
+	.redes {
+		   position:absolute;
+		   width:42px;
+		   height:42px;
+		   background:#ccc;
+		   border-radius:100%;
+		
+		}
+		
+	#Icono1 {
+		    
+		   top:42px;
+		   right:120px;
+		}
+	#Icono2 {
+		    
+		   top:42px;
+		   right:71px;
+		}
+	#Icono3 {
+		    
+		   top:42px;
+		   right:19px;
+		}
+	
+nav {
+	position:relative;
+	   width:1000px;
+	   height: 48px;
+	   margin:auto;
+	
+	}
+nav ul li a{
+	   padding-left:60px;
+	   padding-top:40px;
+	   font-size:20px;
+	   text-decoration:none;
+		
+	}
+nav ul li a:hover{
+	 background-color:#2765;
+	}
+
+	.botones {
+		float:left;
+		width: 196px;
+		height:48px;
+		margin:0px 2px;
+		background:#fff;
+		padding-top:15px;
+		text-align:start;
+		}
+#top {
+	   position:relative;
+	   width:1000px;
+	   height: 192px;
+	   margin: 20px auto;
+	
+	}
+	
+	#top ul {
+		   width:1010px;
+		   height:192px;
+		  
+		}
+	
+#top ul li {
+	float:left;
+	width:326px;
+	height:192px;
+	background-color:black;
+	margin-right:10px;
+	
+	}
+
+section {
+	   position:relative;
+	   width:1000px;
+	   height: 453px;
+	   background-color:#333;
+	   margin: 20px auto;
+	
+	}
+aside#izq {
+		  position:absolute;
+		  left:0;
+		  top:0;
+		  width:200px;
+		  height:453px;
+		  background:#ccc;
+		}
+		
+article {
+	     position:absolute;
+		  left:200px;
+		  top:0;
+		  width:600px;
+		  height:453px;
+		  background:white;
+		}
+		
+aside#derrecha {
+		  position:absolute;
+		  right:0;
+		  top:0;
+		  width:200px;
+		  height:453px;
+		  background:#ccc;
+		}
+	
+	
+footer {
+	   position:relative;
+	   width:1000px;
+	   height: 70px;
+	   background-color:#444;
+	   margin: 20px auto;
+	   text-align:center;
+	   padding-top:15px;
+	}
+

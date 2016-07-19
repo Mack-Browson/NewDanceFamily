@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+#cabeceraweb {
+	background-color:#900;
+	}
+#navegacionprincipal {
+	background-color:#F00;
+	}
+#barralateral {
+	background-color:#049;
+	float:left;
+	height:1020px;
+	}
+#contenidoprincipal {
+	background-color:#606;
+	margin-left:200px;
+	}
+#piepaginal {
+	background-color:#ff0;
+	
+	}
+li {
+	background-color:#FF0;
+	display:inline; //para poner los elementos en linea en vez de bloque
+	}
